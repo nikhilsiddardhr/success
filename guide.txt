@@ -1,0 +1,11 @@
+go to the target folder
+
+git init
+
+git add .
+
+git commit -m "message for this commit"
+
+git remote set-url origin https://github.com/nikhilsiddardhr/repo_name.git
+
+git push -u origin master
